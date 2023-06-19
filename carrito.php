@@ -30,7 +30,7 @@ require_once "config/config.php";
                 <li><span class="fw-bolder">Carrito</span></li>
                 <li style="float:right">
                     <!-- <a class="active" href="#about">About</a> -->
-                    <a class="active navbar-brand" href="./">TSC2</a>
+                    <a class="active navbar-brand" href="./">INICIO - TIENDA</a>
                 </li>
             </ul>
             <!-- <div class="container-fluid">

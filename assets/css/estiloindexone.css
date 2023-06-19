@@ -241,3 +241,14 @@ a.active{
   display: table;
   height: 100%;
 }
+
+.box-names{
+  width: max-content;
+  position: fixed;
+  left: 0;
+  top: 6%;
+  background-color: #333333;
+  z-index: 4000;
+  color: white;
+  border-radius: 0% 15% 15% 0%;
+}

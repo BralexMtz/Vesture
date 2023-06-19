@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Carrito de Compras</title>
+    <title>Vesture</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- <link href="assets/css/styles.css" rel="stylesheet" /> -->
@@ -16,6 +16,7 @@
 </head>
 
 <body>
+    
     <a href="#" class="btn-flotante" id="btnCarrito">Carrito <span class="badge bg-success" id="carrito">0</span></a>
         <nav>
             <ul class="navbar-nav">
@@ -29,6 +30,11 @@
                 <?php } ?>
             </ul>
         </nav>
+        <div class="box-names">
+            <p>Cabrera Peréz Oswaldo</p>
+            <p>Casasola García Oscar</p>
+            <p>Martínez Vázquez Brayan Alexis</p>
+        </div>
         <!-- Header-->
         <div style=" background-color: #8CC4FF ; text-align: center ;padding: 0% ; margin-bottom : 10 px">
 
